@@ -1,0 +1,9 @@
+.heading{
+    text-align: center;
+    margin: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+  }
+  body{
+    background-color:rgb(241, 241, 185);
+  }
